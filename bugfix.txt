@@ -1,1 +1,2 @@
 starting bug-fix
+bugs are fixed partially 
